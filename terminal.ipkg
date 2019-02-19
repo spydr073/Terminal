@@ -1,0 +1,6 @@
+package terminal
+
+sourcedir = src
+
+modules = Terminal.Color
+
